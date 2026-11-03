@@ -477,9 +477,9 @@ find-up@^3.0.0:
     locate-path "^3.0.0"
 
 follow-redirects@^1.0.0:
-  version "1.15.6"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.6.tgz#7f815c0cda4249c74ff09e95ef97c23b5fd0399b"
-  integrity sha512-wWN62YITEaOpSK584EZXJafH1AGpO8RVgElfkuXbTOrPX4fIfOyEpW/CsiNd8JdYrAoOvafRTOEnvsO++qCqFA==
+  version "1.16.2"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.16.2.tgz#a233160dd1bc9b16cbbab43709e6adc7cc941c8c"
+  integrity sha512-/kVP2U8z596Ia0gwFrwyIeo74ta5aVmSeU1FfAUMAmcEP5EP7zydmag3SLiN64NaRKef3lxsq7i/g7ltJQDGow==
 
 forwarded@0.2.0:
   version "0.2.0"
